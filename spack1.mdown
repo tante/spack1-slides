@@ -122,7 +122,7 @@
 # Presenter Notes
 
 * Individualismus ist dem Kapitalismus nützlich
-* Zum verkaufen
+* Zum verkaufen als Gefühl ("Apple, Think Different!")
 * Aber warum sonst?
 
 ---
@@ -144,6 +144,14 @@
 * SOLIDARITÄT
 
 ---
+# Angriff auf die Machtgrundlage
+
+# Presenter Notes
+
+* Politik versucht, Shitstorms zu vermeiden
+* Firmen wollen Profite nicht gefährden
+
+---
 # Was hat das mit Privatsphäre zu tun?
 
 # Presenter Notes
@@ -158,8 +166,9 @@
 # Presenter Notes
 
 * "No man is an island" John Donne in 1624
-* "Declaration of interdependence"
+* "Declaration of Interdependence"
 * Wir können alleine nichts erreichen
+* Sozio_technisch_: Man kann durch verdatung viel rauslesen
 ---
 # Das Netzwerk: Der Verräter
 
@@ -197,7 +206,7 @@
 
 * Uns muss klar sein, dass die Unterstützer hier massives Risiko eingehen
 * Je kleier die Gruppe desto größer das Risiko
-
+* Obs ohne MdAs funktioniert hätte weiß man nicht
 ---
 # Fazit
 
@@ -214,13 +223,14 @@
 # Sei *potentiell* **angreifbar** und *potentiell* **mächtig**.
 
 # Presenter Notes
+
 * "play it safe" ist ok, aber verändert nichts
+* Pick one.
 * Wenn engagieren dann bewusstsein: Es kann schnell gefährlich werden
 * Doch Solidarität braucht sichtbarkeit
 
 ---
 # Danke
-
 --- 
 
 * Folien:
