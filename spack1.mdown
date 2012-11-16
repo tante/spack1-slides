@@ -40,7 +40,7 @@
 
 * Folien:
     * [http://tante.cc/talks/spack1/](http://tante.cc/talks/spack1)
-    * [https://github.com/tante/spack1](https://github.com/tante/spack1)
+    * [https://github.com/tante/spack1-slides](https://github.com/tante/spack1-slides)
 
 * Contact:
     * [http://twitter.com/tante](@tante)
