@@ -395,11 +395,8 @@ div.slide strong{
 
 .sidebar {
   clear: both;
-  background: -webkit-gradient(linear, top right, bottom right, from(#dde), to(#fff));
   -webkit-transition: margin 0.25s ease-in-out;
   background-color: #eee;
-  background: -moz-linear-gradient(right, #dde, #fff);
-  border-right: 5px solid #ccd;
   z-index: 9999999;
   height: 100%;
   overflow: hidden;
@@ -408,7 +405,7 @@ div.slide strong{
   display: block;
   margin: 0;
   margin-left: -400px;
-  padding: 10px 16px;
+  padding: 0px 0px;
   overflow: auto;
   -webkit-transition: margin 0.2s ease-in-out;
   -moz-transition: margin 0.2s ease-in-out;
