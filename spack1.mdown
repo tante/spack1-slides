@@ -70,6 +70,34 @@
 * Macht Dich als Person Deiner Rechte zu berauben
     * Hausdurchsuchung
     * Freiheitsentzug usw
+---
+# Weak and Powerless
+
+![David und Goliath](images/davidandgoliath.png)
+
+# Presenter Notes
+
+* Der Mächtige unterdrückt den kleinen
+* Der kleine ist ausgeliefert
+* Wie kann David so dumm sein, Goliath noch mehr Munition zu geben?
+
+---
+# Privacy
+
+![privater David und Goliath](images/privatedavidandgoliath.png)
+
+# Presenter Notes
+
+* Privatsphäre will das Machtgefälle mitigieren
+* David ist weniger sichtbar
+* weniger Angriffspunkte und Munition für Goliath
+
+---
+# Der Mensch
+
+![Der Mensch von da Vinci](images/human_body_da_vinci.jpg)
+<span style="font-size:25px">(Der menschliche Körper, Leonardo da Vinci)</span>
+
 
 ---
 # Danke
