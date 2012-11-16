@@ -12,6 +12,28 @@
 
 
 ---
+
+# Macht
+
+# Presenter Notes
+
+* umstrittener Begriff
+
+---
+
+# Macht
+
+.fx: bigtext
+
+“Jede Chance innerhalb einer sozialen Beziehung den eigenen Willen auch gegen Widerstreben durchzusetzen, gleichviel worauf diese Chance besteht.”
+
+<span style="font-size:25px">(Max Weber, "Wirtschaft und Gesellschaft")</span>
+
+# Presenter Notes
+
+* 
+
+---
 # Danke
 
 --- 
