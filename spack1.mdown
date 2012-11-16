@@ -10,14 +10,15 @@
 * Affenfreund
 <img src="images/tante.jpg" style="float:right">
 
-
 ---
 
 # Macht
 
 # Presenter Notes
 
-* umstrittener Begriff
+* Wie kann man über postprivacy sprechen, wo es doch Machtgefälle gibt?
+* "Die machtFrage"
+* Wie ist Macht definiert? 
 
 ---
 
@@ -25,13 +26,50 @@
 
 .fx: bigtext
 
-“Jede Chance innerhalb einer sozialen Beziehung den eigenen Willen auch gegen Widerstreben durchzusetzen, gleichviel worauf diese Chance besteht.”
+“Jede Chance innerhalb einer sozialen **Beziehung** den **eigenen Willen** auch gegen **Widerstreben** durchzusetzen, gleichviel worauf diese Chance besteht.”
 
 <span style="font-size:25px">(Max Weber, "Wirtschaft und Gesellschaft")</span>
 
 # Presenter Notes
 
-* 
+* Macht: Die Welt so zu lenken, wie man will
+* auch: Gegen den Willen anderer
+* Unterschiedliche Sichtweisen:
+    * Hannah Arendt: Positiv, Menschen organisieren sich
+    * Negativ: Unterdrückermacht
+
+---
+
+# Quellen der Macht
+
+# Presenter Notes
+
+* Macht hat unterschiedliche Quellen
+* Für die Debatte um Privacy sind dabei vor allem 2 wichtig
+
+---
+# ökonomisch begründete Macht
+
+![Companies](images/companies-logos.jpg)
+
+# Presenter Notes
+
+* globale Konzerne
+* Alles was kaufbar ist ist möglich
+    * De facto eigene Armeen
+    * Das "Cyberpunk"-Szenario
+* Einsatz der Macht zur Profitmaximierung
+
+---
+# politisch begründete Macht
+
+![Staatsmacht](images/polizeigewalt.jpg)
+
+# Presenter Notes
+* findet "Niederschlag" Polizei usw
+* Macht Dich als Person Deiner Rechte zu berauben
+    * Hausdurchsuchung
+    * Freiheitsentzug usw
 
 ---
 # Danke
