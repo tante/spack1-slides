@@ -1,3 +1,26 @@
-# „Verbunden werden auch die Schwachen mächtig.“
+# „Verbunden werden auch<br> die Schwachen mächtig.“
 ---
 
+# tante
+
+* blog [http://the-gay-bar.com](http://the-gay-bar.com)
+* twitter [@tante](http://the-gay-bar.com)
+* Wissenschaftler
+* Spackeria
+* Affenfreund
+<img src="images/tante.jpg" style="float:right">
+
+
+---
+# Danke
+
+--- 
+
+* Folien:
+    * [http://tante.cc/talks/spack1/](http://tante.cc/talks/spack1)
+    * [https://github.com/tante/spack1](https://github.com/tante/spack1)
+
+* Contact:
+    * [http://twitter.com/tante](@tante)
+    * [mailto:tante@the-gay-bar.com](tante@the-gay-bar.com)
+    * tante@jabber.org

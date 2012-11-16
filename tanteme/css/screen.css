@@ -1,6 +1,6 @@
 body {
   font: 25px "Inconsolata", sans-serif;
-  background: url('../img/background.png');
+  background: #000;  /* url('../img/background.png'); */
   /*background: #778;*/
   padding: 0;
   margin: 0;
@@ -54,7 +54,7 @@ div.slide {
   -webkit-transition: margin 0.25s ease-in-out;
   -moz-transition: margin 0.25s ease-in-out;
   -o-transition: margin 0.25s ease-in-out;
-  border-top-left-radius: 20px;
+  /* border-top-left-radius: 20px;
   -moz-border-radius-topleft: 20px;
   -webkit-border-top-left-radius: 20px;
   border-top-right-radius: 20px;
@@ -65,7 +65,7 @@ div.slide {
   -webkit-border-bottom-right-radius: 20px;
   border-bottom-left-radius: 20px;
   -moz-border-radius-bottomleft: 20px;
-  -webkit-border-bottom-left-radius: 20px;
+  -webkit-border-bottom-left-radius: 20px; */
 }
 /* Expose */
 
