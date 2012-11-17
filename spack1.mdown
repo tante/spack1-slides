@@ -160,7 +160,6 @@
 
 * Gute Frage! 
 * Es geht um Anschlußfähigkeit, um Verbindungsmöglichkeiten, um Connectivity
-* Zum verbinden müssen Menschen sich sichtbar machen
 
 ---
 # Connectivity
@@ -170,9 +169,14 @@
 * "No man is an island" John Donne in 1624
 * "Declaration of Interdependence"
 * Solidarität braucht die Möglichkeit der Anknüpfung
+* Zum verbinden müssen Menschen sich sichtbar machen
 ---
-# 
+# The social network
 
+# Presenter Notes
+* Das Aufspannen von sozialen (Solidaritäts-)netzwerken
+* Das Abschütteln der Isolation und damit der machtlosigkeit
+* Konstitution von Macht: Pool aus Skills, Menschen, Zeit, Resourcen…
 ---
 # Das Netzwerk: Der Verräter
 
@@ -184,13 +188,13 @@
 ---
 #Beispiele
 ---
-# Boycotaufrufe
+# "Shitstorms"
 
 * Kindle "gelöscht"
     * Der Shitstorm wirkt
 * ZDFneo "Klaas und Joko"
-    * Erfolg trotz guten Einsatz nicht durchschlagend
-    * zu kleine Gruppe? 
+    * Erfolg trotz guten Einsatz nicht komplett durchschlagend
+    * zu kleine Gruppe? Thema? 
 * Facebook diverse Proteste
     * Kein Erfolg
 
@@ -229,7 +233,7 @@
 # Presenter Notes
 
 * "play it safe" ist ok, aber verändert nichts
-* Pick one.
+* Pick one: Beides geht nicht
 * Wenn engagieren dann bewusstsein: Es kann schnell gefährlich werden
 * Doch Solidarität braucht sichtbarkeit
 
